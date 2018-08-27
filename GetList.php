@@ -13,5 +13,3 @@ while($arElement = $res->GetNext())
         $arElement['PROPERTY']['EVENT_TYPE'] = $ar_props;
     }
 }
-
-//дістаєм свойства
